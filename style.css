@@ -1,0 +1,53 @@
+#divinstructions{
+    top: 0px;
+    margin-top:0px;
+    width: 100%;
+    position: sticky;
+    display: inline-block;
+}
+#onyourbutton{
+    float: right;
+    border-style: dashed, ridge;
+    font-size: larger;
+    border-width: 5px;
+}
+#label{
+float: left;
+font-size: larger;
+margin-top: 0px;
+border-style: dashed, ridge;
+border-width: 5px;
+}
+#coolman{
+    width: 100%;
+}
+body{
+    background-image: url("mario.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.modal-dialog{
+    width: 90%;
+    border-width:5px;
+    border-radius: 25px;
+    border-style: ridge;
+}
+.imgwidth{
+    display: inline-block;
+    width: 45%;
+}
+#footer{
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: fixed;
+    background-color: rgb(96, 96, 96);
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+video{
+   background: url("game_console.png"); 
+   background-size:cover ;
+   background-position: center;
+   padding: 25px;
+}
